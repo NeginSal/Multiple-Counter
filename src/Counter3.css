@@ -1,0 +1,32 @@
+    .App3 {
+      float: left;
+      width:18%;; 
+      height:300px;   
+      padding: 5px;
+      font-size: 20px;
+      overflow: hidden;
+      text-align: center;
+      text-overflow: ellipsis;
+      background-color: #66ccff;
+      border: 2px solid #0066ff;
+      margin: 25px 10px 25px 10px; 
+    }
+    p.p3{
+      color: #003366;
+    }
+    .btn3{
+      margin: 90px 10px 10px 10px;
+      font-size: 18px;
+      height: 30px;
+      width: 50px;
+      border: none;
+
+      box-shadow: 1px 1px 0px 1px rgba (0,0,0,0.3);
+      background: white;
+      cursor: pointer;
+     }
+    .btn3:hover{
+      
+        background-color: #0066cc;
+        color: white;
+    }

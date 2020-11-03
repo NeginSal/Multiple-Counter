@@ -1,0 +1,29 @@
+ .App1 {
+     
+      float:left;
+      width:15%; 
+      height:300px;   
+      padding: 5px;
+      font-size: 20px;
+      background-color: #99ff66;
+      border: 2px solid #2a8000;
+      margin: 25px 10px 25px 18%; 
+    }
+    p.p1{
+      color: #336600;
+    }
+ .btn1{
+  margin: 90px 10px 10px 10px;
+  font-size: 18px;
+  height: 30px;
+  width: 50px;
+  border: none;
+  box-shadow: 1px 1px 0px 1px rgba (0,0,0,0.3);
+  background: white;
+  cursor: pointer;
+ }
+.btn1:hover{
+  
+    background-color: #4CAF50;
+    color: white;
+}
